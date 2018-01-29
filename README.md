@@ -1,0 +1,2 @@
+# minorProgramming
+short programming exercises
