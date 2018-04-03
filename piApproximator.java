@@ -18,7 +18,7 @@ public class piApproximator {
 		}
 		b = b+2; // b gets incremented by 2 in the denominator
 	x++;
-	}System.out.println(ans*3); // print out the answer
+	}System.out.println(ans*4); // print out the answer
 	
 
 }}
