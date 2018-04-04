@@ -1,6 +1,8 @@
 package test;
 import java.util.*;
-public class piApproximator {
+public class fermatLastTheorem {
+	/* this program outputs the sum of approximations used in fermat's last theorem. 
+	for example, pi / 4 = 1 - 1/3 + 1/5 - 1/7 ... */
 	public static void main(String[] args) {
 	Scanner reader = new Scanner(System.in);
 	// prompt user 
