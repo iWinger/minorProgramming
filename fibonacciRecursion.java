@@ -6,7 +6,7 @@ public class fibonacciRecursion {
 	
 	    static int fib(int n)
 	    {
-	    if (n <= 1)
+	    if (n == 1 || n == 0)
 	       return n;
 	    return fib(n-1) + fib(n-2);
 	    }
@@ -17,5 +17,5 @@ public class fibonacciRecursion {
 	    System.out.println(fib(n));
 	    }
 	}
-	/* This code is contributed by Rajat Mishra */
+	
 
