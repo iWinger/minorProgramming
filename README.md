@@ -1,2 +1,2 @@
 # minorProgramming
-short programming exercises
+These are a set of short programming exercises created by Wingjun Chan.
