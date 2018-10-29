@@ -60,3 +60,4 @@ public String toString() {
 	return "Information about the dog: " + " name: " + name + "//" + " breed: " + breed + "//" + " age: " + age + "//" + " weight: " + weight + "//" + "dogAggressive: " + dogAggressive;
 }
 }
+//Dogs are cool
